@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Mrunali Badwaik
 
-<!--
-**mrunalibadwaik2805-glitch/mrunalibadwaik2805-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Telecommunication Engineering
 
-Here are some ideas to get you started:
+💻 Aspiring AI-Powered Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- Django
+- React.js
+- Machine Learning
+- Git & GitHub
+
+## 🚀 Projects
+
+### 📈 Stock Portfolio Tracker
+Python application to calculate investment values.
+
+### 🤖 Basic Chatbot
+Rule-based chatbot using Python.
+
+### 📧 Email Automation
+Extracts email addresses from text files.
+
+### 🎮 Hangman Game
+Classic word guessing game in Python.
+
+## 🛠 Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Django
+- React.js
+- Git
+- GitHub
+- SQL
+- Machine Learning
+
+## 📫 Connect with Me
+
+GitHub:
+https://github.com/mrunalibadwaik2805-glitch
+
+LinkedIn:
+(https://www.linkedin.com/in/mrunali-badwaik-7a0879357/)
