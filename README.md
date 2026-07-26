@@ -44,4 +44,4 @@ GitHub:
 https://github.com/mrunalibadwaik2805-glitch
 
 LinkedIn:
-(https://www.linkedin.com/in/mrunali-badwaik-7a0879357/)
+https://www.linkedin.com/in/mrunali-badwaik-7a0879357/
